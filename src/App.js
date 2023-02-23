@@ -13,7 +13,7 @@ function App() {
 <div class="stars3" aria-hidden="true"></div>
 <main class="main">
 	<section class="contact">
-		<h2 class="sub-title">Site Under Construction</h2>
+		<h2 class="sub-title">Site Under Maintenance</h2>
 	</section>
 </main>
     </div>
